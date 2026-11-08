@@ -4,7 +4,7 @@
 
 ### Software development · Applied AI · Problem solving
 
-Third-year university student building web applications, desktop software, and image processing projects.
+Fourth-year university student building web applications, desktop software, and image processing projects.
 
 [Projects](https://github.com/ramyslait?tab=repositories) · [Award-winning Java game](https://github.com/ramyslait/PlantsVsZombies-MIU) · [Algorithms research](https://github.com/ramyslait/Tiling-Problem-MIU)
 
